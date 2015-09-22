@@ -4,7 +4,7 @@ README
 This project can be used to discuss the SASS usage and some CSS properties usings.
 Steps to use:
 
-1. fork the repository
+1. Fork the repository
 2. navigate to the directory from the Terminal
 2. run > bower install
 3. To run the SASS file watcher execute
