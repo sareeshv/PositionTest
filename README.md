@@ -10,4 +10,4 @@ Steps to use:
 3. To run the SASS file watcher execute
 4. sass --watch styles.scss
 5. The above command will generate the styles.css file on this localtion and will watch for any changes in the .scss file
-6. after running the above command the folder will look like in the screenshot added.
+6. after running the above command the folder will look like in the screenshot added. (after.png)
