@@ -1,5 +1,7 @@
 /**
  * Created by sareesh on 9/21/15.
+ * This scroll event added to show how we can change the CSS on the fly to give some UI effect
+ * The logo or any image can be placed according to the requirement when the user scrolls
  */
 (function(){
 
